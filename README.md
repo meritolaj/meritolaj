@@ -47,9 +47,3 @@ If you’re looking for a developer who codes with creativity, builds with secur
 - Custom ERP, REST APIs & Web Software Solutions - Tailored systems for companies, built for efficiency and growth.  
 
 ---
-
-## 🔗 Connect With Me
-- [LinkedIn](#)  
-- [Portfolio / Projects](#)  
-
----
