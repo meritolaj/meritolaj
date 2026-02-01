@@ -17,12 +17,13 @@ I thrive in environments that encourage growth, creativity, and problem‑solvin
 Programming started as a curiosity and grew into a passion. Over the years, I’ve built and maintained web applications & APIs that are live and running, solving real‑world problems with clean, maintainable code and thoughtful design.  
 I bring:
 - A zeal for programming and openness to learning new technologies to solve problems.  
-- Strong problem‑solving skills, applied to both technical challenges and team collaboration.  
+- Strong problem‑solving skills, applied to both technical challenges and team collaboration.
+- Very Reasonable natural analytic foresights into current/future needs, to enhance, secure, provide and render sustainable solutions with intentions of helping a clique/organisation become better.
 - Experience in debugging, maintaining, and upgrading systems to keep them secure and efficient.  
 
 ---
 
-## 💡 Why Hire Me?
+## 💡 Why Me?
 - **Proven Experience:** 6+ years of hands‑on web development across frontend and backend.  
 - **Security‑Conscious:** Skilled in secure coding practices and penetration testing.  
 - **Problem Solver:** Adept at tackling challenges with creativity and persistence.  
